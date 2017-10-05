@@ -1,12 +1,16 @@
 # [Windows authoring guide](index.md)
 
+# Some new section
+## foo
+## bar
+## beep
 # Authoring setup and writing guidance
 ## [Set up a GitHub account](github-account.md)
 ## [Resources for writing Markdown](writing-guidance/writing-markdown.md)
 ## [Resources for understanding GIT](writing-guidance/understanding-git.md)
-## [Voice and Terminology](writing-guidance/voice-and-terminology.md)
 ## [Email Notification Settings](writing-guidance/notification-settings.md)
 ## [Request an image asset](writing-guidance/image-request.md)
+## [Voice and Terminology](writing-guidance/voice-and-terminology.md)
 ## [Working with pre-release content](writing-guidance/writing-prerelease-content.md)
 
 # [UWP instructions](uwp/index.md)
