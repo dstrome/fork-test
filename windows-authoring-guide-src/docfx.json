@@ -1,0 +1,29 @@
+{
+  "build": {
+    "content": [
+      {
+          "files": ["**/**.md", "**/**.yml"],
+          "exclude": ["**/obj/**"]
+      }
+    ],
+    "resource": [
+      {
+          "files": ["**/images/**"],
+          "exclude": ["**/obj/**"]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+        "titleSuffix": "Windows authoring guide",
+		    "breadcrumb_path":  "/windows-authoring-guide/breadcrumbs/toc.json",
+		    "extendBreadcrumb": true,
+        "searchScope": ["WindowsAuthoring"]
+    },
+    "fileMetadata": {
+        "searchScope": { "windows-authoring-guide-src/seo/**.md": ["WindowsAuthoring","SEO"] } 
+    },
+    "template": "op.html",
+    "dest": "windows-authoring-guide"
+  }
+}
