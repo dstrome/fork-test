@@ -1,9 +1,11 @@
 # [Windows authoring guide](index.md)
 
+
 # Some new section
 ## foo
 ## bar
 ## beep
+
 # Authoring setup and writing guidance
 ## [Set up a GitHub account](github-account.md)
 ## [Resources for writing Markdown](writing-guidance/writing-markdown.md)
